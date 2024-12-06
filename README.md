@@ -13,7 +13,7 @@ Hi, I'm Favour Makanju, a passionate DevOps engineer with experience in automati
 ![Terraform](https://img.shields.io/badge/-Terraform-purple?logo=terraform)
 
 ## 🚀 Featured Projects
-1. **[Dockerized Web App](https://github.com/favy12/dockerized-webapp)**: A multi-container Node.js app with NGINX.
+1. **[Dockerized Web App](https://github.com/favy12/my-node-app)**: A multi-container Node.js app with NGINX.
 2. **[CI/CD Pipeline with Jenkins](https://github.com/favy12/jenkins-cicd)**: Automating builds and deployments.
 3. **[Kubernetes Deployment](https://github.com/favy12/kubernetes-deployment)**: Deploying scalable microservices on Kubernetes.
 
