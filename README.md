@@ -18,7 +18,7 @@ Hi, I'm Favour Makanju, a passionate DevOps engineer with experience in automati
 3. **[Kubernetes Deployment](https://github.com/favy12/kubernetes-deployment)**: Deploying scalable microservices on Kubernetes.
 
 ## 📜 Certifications
-- AWS Certified Solutions Architect
-- Docker Certified Associate
-- Google Cloud DevOps Engineer
+- AWS Certified Cloud Practitioner (2026)
+- Oracle Cloud Infrastructure DevOps Professional (2025)
+- Google Cybersecurity Certificate (2024)
 
